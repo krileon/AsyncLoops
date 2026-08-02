@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AsyncLoops",
+	"Description": "Adds async based for and foreach loops",
+	"Category": "Other",
+	"CreatedBy": "Krileon",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AsyncLoops",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
